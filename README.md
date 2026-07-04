@@ -401,12 +401,10 @@ mvn -Dtest=TaskThreeTests test
 
 <div align="center">
 
-This project was completed as part of the **JPMorgan Chase & Co. Advanced Software Engineering Job Simulation**, hosted on [Forage](https://www.theforage.com/).
+<img src="docs/certificate.png" alt="JPMorgan Chase Advanced Software Engineering Certificate" width="700"/>
 
 **Naga Sai Karthikeya Maram** — *Certificate of Completion, July 2026*
-
-Practical tasks completed:
-`Project Setup` · `Kafka Integration` · `H2 Integration` · `REST API Integration` · `REST API Controller`
+JPMorgan Chase & Co. Advanced Software Engineering Job Simulation, hosted on [Forage](https://www.theforage.com/)
 
 </div>
 
