@@ -30,6 +30,7 @@
 - [Testing](#-testing)
 - [Design Decisions](#-design-decisions)
 - [Roadmap](#-roadmap)
+- [Certification](#-certification)
 
 ---
 
