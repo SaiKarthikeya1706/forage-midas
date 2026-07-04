@@ -1,9 +1,10 @@
 package com.jpmc.midascore;
 
-import com.jpmc.midascore.component.DatabaseConduit;
-import com.jpmc.midascore.entity.UserRecord;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
+
+import com.jpmc.midascore.component.DatabaseConduit;
+import com.jpmc.midascore.entity.UserRecord;
 
 @Component
 public class UserPopulator {
